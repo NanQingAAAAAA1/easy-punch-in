@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>PunchPal</AssemblyName>
+    <RootNamespace>EasyPunchIn</RootNamespace>
+    <AssemblyTitle>打卡小护卫 PunchPal</AssemblyTitle>
+    <Product>EasyPunchIn / 打卡小护卫</Product>
+    <Description>开机提醒上班打卡、下班时间提醒下班打卡、关机前拦截确认的小工具</Description>
+  </PropertyGroup>
+
+</Project>

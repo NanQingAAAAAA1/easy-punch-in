@@ -1,0 +1,27 @@
+# ---- .NET 构建产物 ----
+bin/
+obj/
+publish/
+dist/
+.vs/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ---- 编译生成的二进制（自行构建，不入库）----
+*.exe
+*.dll
+*.pdb
+*.cache
+
+# ---- 运行时个人数据，绝不入库 ----
+config.json
+state.json
+log.jsonl
+
+# ---- 系统文件 ----
+Thumbs.db
+Desktop.ini
+.DS_Store

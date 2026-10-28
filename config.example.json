@@ -1,0 +1,21 @@
+{
+  "Title": "打卡提醒",
+  "ClockInBody": "请先确认上班打卡",
+  "ClockOutTitle": "下班啦",
+  "ClockOutBody": "你下班打卡并带走水杯了吗？",
+  "Body": "请确认您已完成打卡。",
+  "ButtonText": "我已完成",
+  "BackgroundColor": "#2D2D30",
+  "TextColor": "#FFFFFF",
+  "AccentColor": "#4A4A4A",
+  "FontName": "Microsoft YaHei",
+  "FontSize": 14,
+  "IconPath": "",
+  "SoundPath": "",
+  "TopMost": true,
+  "ClockInReminderDelaySeconds": 15,
+  "ClockOutTime": "18:00",
+  "ShutdownConfirmText": "请先确认下班打卡与带走水杯后再关机",
+  "LockOnEveryShutdown": true,
+  "AutoStart": true
+}
